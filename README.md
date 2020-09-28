@@ -2,4 +2,4 @@
 
 Raw data and execution file for related manusript including its guidance and input files.
 
-Related files will uploaded after the related manuscript is figures accepted.
+Related files will uploaded after the related manuscript is formally accepted.
